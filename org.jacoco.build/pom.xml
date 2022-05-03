@@ -15,7 +15,7 @@
 
   <groupId>org.jacoco</groupId>
   <artifactId>org.jacoco.build</artifactId>
-  <version>0.8.8-SNAPSHOT</version>
+  <version>0.8.9-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>JaCoCo</name>
@@ -139,8 +139,8 @@
     <argLine>${jvm.args}</argLine>
 
     <!-- Dependencies versions -->
-    <asm.version>9.2</asm.version>
-    <ant.version>1.9.15</ant.version>
+    <asm.version>9.3</asm.version>
+    <ant.version>1.9.16</ant.version>
     <args4j.version>2.0.28</args4j.version>
     <junit.version>4.13.1</junit.version>
     <googlecodeprettify.version>20100721</googlecodeprettify.version>
